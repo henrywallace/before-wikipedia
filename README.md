@@ -4,5 +4,5 @@ This is a folder full of experiments that I did while taking Brown University's 
 > How did humans organize knowledge before Wikipedia? This course explores the fascinating history of encyclopedic texts, archives, and databases in various cultural contexts. We consider issues of book history, the classification of knowledge, and the obsession to collect, compile, and document everything knowable and unknowable in both real and fictional encyclopedias. The use of Wikipedia in this course is not only tolerated but required. Students will be responsible for originating, composing, and curating new Wikipedia entries over the course of the semester.
 
 I use Python 3 for mostly all of the experiments, and I present them in iPython notebooks. Here is an index of topics:
-- [Analyzing Pliny's Natural History](http://nbviewer.ipython.org/github/henry-wallace/musings/blob/master/Before%20Wikipedia/pliny/Analyzing%20Pliny%27s%20Natural%20History.ipynb)
-- [On Borge's Library of Babel]() 
+- [Analyzing Pliny's Natural History](http://nbviewer.jupyter.org/github/henrywallace/before-wikipedia/blob/master/Analyzing%20Pliny%27s%20Natural%20History.ipynb)
+- [On Borge's Library of Babel]()
